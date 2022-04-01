@@ -18,7 +18,7 @@ The purposse of this analysis was to take bikesharing data from August of 2019 i
 
 * Regardless of gender, most trips last only ~5-6 minutes
 
-![Trip Times](hhttps://github.com/Nveatch/bikesharing/blob/main/resources/slide_4.png)
+![Trip Times](https://github.com/Nveatch/bikesharing/blob/main/resources/slide_4.png)
 
 * Trips are most common during the week, and during rush hour times (7-9 AM, and 5-7 PM) 
 
