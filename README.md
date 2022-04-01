@@ -58,7 +58,3 @@ From these two charts, I would look for popular age brackets, and then compare a
 ### Tableau
 
 [Link to Tableau Public](https://public.tableau.com/app/profile/nathaniel.veatch/viz/Module14Challenge_16480744148680/DesMoinesBikeSharing?publish=yes)
-
-    Overview of the analysis: Explain the purpose of this analysis.
-    Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-    Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
