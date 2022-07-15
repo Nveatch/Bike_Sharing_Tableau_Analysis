@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purposse of this analysis was to take bikesharing data from August of 2019 in New York City, and create visualizations using Tableau to assess the viability of a similar bikesharing program in Des Moines, Iowa. 
+The purpose of this analysis was to take bikesharing data from August of 2019 in New York City, and create visualizations using Tableau to assess the viability of a similar bikesharing program in Des Moines, Iowa. 
 
 ## Results
 ![Number of Rides](https://github.com/Nveatch/bikesharing/blob/main/resources/slide_1.png)
